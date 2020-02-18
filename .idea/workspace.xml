@@ -110,9 +110,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'temp' into develop&#10;&#10;# Conflicts:&#10;#&#9;src/main/java/p1/c1.java" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="825" y="0" key="CommitChangelistDialog2" timestamp="1582069115950">
+    <state x="825" y="0" key="CommitChangelistDialog2" timestamp="1582069637525">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="825" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1582069115950" />
+    <state x="825" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1582069637525" />
   </component>
 </project>
