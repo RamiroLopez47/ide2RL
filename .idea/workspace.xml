@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be4e2f17-7e44-4176-b2f6-d93e913a570f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p1/c1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/p1/c1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/p1/c1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,8 +47,16 @@
       <option name="presentableId" value="Default" />
       <updated>1582042138029</updated>
       <workItem from="1582042139862" duration="1035000" />
-      <workItem from="1582066261218" duration="270000" />
+      <workItem from="1582066261218" duration="451000" />
     </task>
+    <task id="LOCAL-00001" summary="Nuevo paquete, nueva clase">
+      <created>1582066631712</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582066631712</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -65,5 +72,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Nuevo paquete, nueva clase" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nuevo paquete, nueva clase" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="825" y="28" key="CommitChangelistDialog2" timestamp="1582066630532">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="825" y="28" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1582066630532" />
   </component>
 </project>
